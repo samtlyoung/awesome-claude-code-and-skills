@@ -1050,6 +1050,7 @@ Skills for marketing professionals, content creators, and growth teams.
 ## Domain-Specific Skills
 
 - [Uhudsavasindankacanokcu2/finance-skills-for-claude](https://github.com/Uhudsavasindankacanokcu2/finance-skills-for-claude) ![Stars](https://img.shields.io/github/stars/Uhudsavasindankacanokcu2/finance-skills-for-claude?style=flat-square) - Cash flow, runway, invoices, budgets & scenario modeling for founders/finance teams
+- [levelcfo/open-finance-skills](https://github.com/levelcfo/open-finance-skills) ![Stars](https://img.shields.io/github/stars/levelcfo/open-finance-skills?style=flat-square) - Twenty evidence-first finance skills and a read-only local MCP server for general ledger reconciliation, 13-week cash flow forecasting, job-cost variance, and AR integrity review
 - [Uhudsavasindankacanokcu2/legal-skills-for-claude](https://github.com/Uhudsavasindankacanokcu2/legal-skills-for-claude) ![Stars](https://img.shields.io/github/stars/Uhudsavasindankacanokcu2/legal-skills-for-claude?style=flat-square) - Contract review, summarization, drafting & negotiation redlines in plain English
 - [Uhudsavasindankacanokcu2/recruiting-skills-for-claude](https://github.com/Uhudsavasindankacanokcu2/recruiting-skills-for-claude) ![Stars](https://img.shields.io/github/stars/Uhudsavasindankacanokcu2/recruiting-skills-for-claude?style=flat-square) - Job descriptions, bias-aware resume screening & structured interview kits
 
